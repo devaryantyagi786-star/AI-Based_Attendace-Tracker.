@@ -1,0 +1,22 @@
+#Utility libraries
+numpy
+pandas
+#Face Recognition
+scikit-learn
+#Image Processing
+dlib-bin
+git+https://github.com/ageitgey/face_recognition_models
+
+setuptools<70.0.0 
+# Database
+supbase // provide the storage and database management
+bcrypt // provide hasing method
+# other libraries
+segno // qrcode generation from image or url
+pillow // image processing
+
+# frontend libraries
+streamlit // for building the web app
+
+librosa
+resemblyzer
